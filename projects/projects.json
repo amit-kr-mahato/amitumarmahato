@@ -1,0 +1,133 @@
+[
+  {
+    "name": " card website Android",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "card website",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "home landing website",
+    "desc": "All in one Apex college Student. Built using html, css and javascripts.",
+    "image": "home landing website",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "journey website",
+    "desc": "Native android website built using html, XML css and javascripts.",
+    "image": "journey website",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "music website",
+    "desc": "Native android app built using Java, XML and css.",
+    "image": "MUSIC",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "portfoilo MERN",
+    "desc": "Full-Stack portfoilo clone built using html css and javascripts.",
+    "image": "PORTFOILO",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "Resturant MERN",
+    "desc": "Full-Stack resturant website ready to use for business.",
+    "image": "RESTURANT",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "DEVELOPER website",
+    "desc": "Full-Stack project developer website.",
+    "image": "DEVELOPER (2)",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "e-commerce website",
+    "desc": "Full-Stack project dashboard which is collection of objects and provide a new things in the markets.",
+    "image": "e-commerce",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "gym website",
+    "desc": "Full-Stack gym website.",
+    "image": "gym website",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "hiking website",
+    "desc": "Full-Stack hiking Clone Using html css and javascripts.",
+    "image": "HIKING",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "Nike shoes website",
+    "desc": "Full-Stack Flipkart Clone Using html css and javascripts. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "nike shoes website",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "Parallex website",
+    "desc": "Full-Stack parallex website Using html css and javascripts.",
+    "image": "PARALLEX",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  },
+  {
+    "name": "Vlogs website",
+    "desc": "Full-Stack vlogs website and builts using html css and javascripts.",
+    "image": "VLOGS",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/amit-kr-mahato",
+      "code": "https://github.com/amit-kr-mahato"
+    }
+  }
+  
+]
